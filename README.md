@@ -1,3 +1,13 @@
+<div align="left">
+  <b><pwn>🔴 🟡 🟢</pwn></b>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Hey,+I'm+Shreyas+S+:)&font=Aptos%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=18&size=30" />
+</div>
+
+
+
 # 💫 About Me:
 Aspiring Software Enginner 
 Pursuing CSE, obsessed with AI/ML, and crafting intelligent systems in Python.
