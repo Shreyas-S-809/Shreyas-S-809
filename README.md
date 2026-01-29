@@ -14,7 +14,7 @@
 
 
 # 💫 About Me:
-Aspiring Software Enginner 
+Aspiring Software Engineer 
 Pursuing CSE, obsessed with AI/ML, and crafting intelligent systems in Python.
 
 
