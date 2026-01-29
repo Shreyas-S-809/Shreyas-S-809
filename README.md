@@ -3,6 +3,11 @@
 </div>
 
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=+Hey,+I'm+Shreyas+S+:)&font=Aptos%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=18&size=30" />
 </div>
 
