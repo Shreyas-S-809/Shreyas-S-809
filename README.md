@@ -30,9 +30,9 @@ Pursuing CSE, obsessed with AI/ML, and crafting intelligent systems in Python.
 
 
 
-
-> **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।**
-> **मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥**
-> 
-> *Karmany evadhikaras te, ma phaleshu kadachana |*
-> *Ma karma-phala-hetur bhur, ma te sango ’stv akarmani ||*
+<br>
+<div align="center">
+  <h4>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br>मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥</h4>
+  <p><i>Karmany evadhikaras te, ma phaleshu kadachana |<br>Ma karma-phala-hetur bhur, ma te sango ’stv akarmani ||</i></p>
+</div>
+<br>
